@@ -1,5 +1,6 @@
 # DoMpsc
 DoMpsc Website is a web-based platform that provides resources for students preparing for competitive exams In Maharashtra. The website is built on a modern stack of technologies, including Bootstrap4, HTML5, CSS4, PHP7, MySQL, and SEO technologies. This website is responsive, accessible, and search engine optimized ranked at First place in SEO
+Whole Project is Created single handed with sratch Coding,Please Refer this Link - https://www.dompsc.com
 The Competitive Exam Website offers a variety of resources for students, including:
 
 Practice questions: The website offers a large library of practice questions for students to practice with. The questions are categorized by subject and difficulty level, so students can find the questions that are right for them.
